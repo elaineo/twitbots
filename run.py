@@ -26,7 +26,7 @@ username = 'innocuousegg0'
 # preprocess if running for the first time. Comment this out later.
 # 256 is the minimum number of features. Depends on complexity of training data. 
 # Try 512 if the bot sucks
-#preprocess(username, 256)
+preprocess(username, 256)
 
 logger = logging.getLogger(username)
 

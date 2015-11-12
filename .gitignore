@@ -55,3 +55,17 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#ipython notebook
+.ipynb_checkpoints
+
+#tmp semantic stuff
+tmp.mm
+tmp.mm.index
+*.trash
+*.projection
+*.projection.u.npy
+*.index.0
+
+# local data
+data/

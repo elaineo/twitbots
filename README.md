@@ -37,7 +37,7 @@ pip install --upgrade gensim
 pip install nltk
 ```
 
-Download the nltk English package.
+Download the nltk packages.
 ```
 python
 >>> import nltk
@@ -57,8 +57,9 @@ Downloader> d
 
 Download which package (l=list; x=cancel)?
   Identifier> stopwords
-    Downloading package punkt to /home/ubuntu/nltk_data...
-      Unzipping tokenizers/punkt.zip.
+    Downloading package stopwords to /home/ubuntu/nltk_data...
+      Unzipping corpora/stopwords.zip.
+
 Downloader> q
 True
 >>> exit()
